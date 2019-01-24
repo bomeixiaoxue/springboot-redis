@@ -1,1 +1,1 @@
-这个项目是一个springcloud整合redis-cluster集群项目
+这个项目是一个springcloud调用redis-cluster集群项目
